@@ -1,0 +1,1 @@
+This assignment involves using class and ID selectors with HTML elements to differentiate their purposes
