@@ -1,0 +1,2 @@
+This assignment focuses on methods for adding CSS to an HTML file using three techniques: external CSS, internal CSS, and inline CSS
+The assignment will involve using only type selectors when applying styles via the external and internal methods
