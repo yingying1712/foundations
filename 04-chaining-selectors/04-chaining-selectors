@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Chaining Selectors</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <div>
+            <img class="avatar boy" src="./images/boy.jpg" alt="boy">
+            <img class="avatar girl" src="./images/girl.jpg" alt="girl">
+        </div>
+        <div>
+            <img class="original boy" src="./images/boy.jpg" alt="boy">
+            <img class="original girl" src="./images/girl.jpg" alt="girl">
+        </div>
+    </body>
+</html>
