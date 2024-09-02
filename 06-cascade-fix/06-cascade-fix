@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Cascade Fix</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <p class="p">I'm just a paragraph with extra bold text!</p>
+        <p class="p small">I'm smaller paragraph, also with extra bold text!</p>
+        <button id="confirm" class="confirm button">Confirm</button>
+        <button id="cancel" class="cancel button">Cancel</button>
+        <div class="div">I'm a div with thin text!</div>
+        <div class="div">I'm a div with thin text and a child div!
+            <div class="div child">I'm a smaller child div with extra bold text.</div>
+        </div>
+    </body>
+</html>
